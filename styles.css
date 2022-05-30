@@ -1,0 +1,97 @@
+body
+{
+    background-color: #CBF1F5;
+    text-align: center;
+    font-family: 'Montserrat';
+    overflow-x: hidden;
+}
+
+.navigbar
+{
+    padding: 2% 3% 2% 2%;
+}
+
+
+.navbar .navbar-brand
+{
+    color: #1597E5;
+    font-family: 'Ubuntu';
+}
+
+.navbar .nav-link
+{
+    color: #28ABB9;
+}
+
+.title-h1
+{
+    margin: 3% auto 2%;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: #F73D93;
+}
+
+h2
+{
+    font-family: 'Merriweather';
+}
+
+.navig-values
+{
+    text-align: left;
+}
+
+.table
+{
+    padding: 3% 12% 3%;
+}
+
+.dice-img
+{
+    width: 30%;
+    margin: 5% auto;
+}
+
+.logos
+{
+    padding: 4% 14% 3%;
+    color: #8f8f8f;
+}
+
+.icons
+{
+    color: black;
+    margin: 1% 1% 2%;
+}
+
+@media (max-width: 1200px)
+{
+    .title-h1
+    {
+        font-size: 2.5rem;
+        padding: 10% 8%;
+        line-height: 1.5;
+    }
+
+    h2
+    {
+        font-size: 1.4rem;
+    }
+
+    .table
+    {
+        padding: 6% 10% 9%;
+    }
+
+    .dice-img
+    {
+        width: 40%;
+    }
+
+    .logos
+    {
+        padding-top: 10%;
+        font-size: 0.8rem;
+    }
+}
+
